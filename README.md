@@ -2,13 +2,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Setting up and getting started]
+  - [Configuring Active Directory within Azure VMs](https://github.com/mchajdecki/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mchajdecki/azure-network-protocols)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mchajdecki/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mchajdecki/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mchajdecki/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/mchajdecki/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mchajdecki/azure-network-protocols)
+
 - <b>Active Directory</b>
 
 <h2>🤳Connect with me:</h2>
