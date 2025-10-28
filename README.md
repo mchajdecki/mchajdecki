@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Setting up and getting started - Full Tutorial](https://github.com/mchajdecki/Microsoft-Azure.git)
-  - [Performing Activities and Network Traffic Analysis](https://github.com/mchajdecki/Performing-Activities-On-The-Network.git)
+  - [Performing Activities and Network Traffic Analysis With Wireshark](https://github.com/mchajdecki/Performing-Activities-On-The-Network.git)
   - [Configuring Active Directory within Azure VMs](https://github.com/mchajdecki/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mchajdecki/azure-network-protocols)
 
