@@ -6,7 +6,6 @@
   - [Setting up and getting started - Full Tutorial](https://github.com/mchajdecki/Microsoft-Azure.git)
   - [Performing Activities and Network Traffic Analysis With Wireshark](https://github.com/mchajdecki/Performing-Activities-On-The-Network.git)
   - [Configuring Active Directory within Azure VMs](https://github.com/mchajdecki/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mchajdecki/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mchajdecki/osticket-prereqs)
