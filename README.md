@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up and getting started - Full Tutorial](https://github.com/mchajdecki/Microsoft-Azure.git)
+  - [Getting Started With Microsoft Azure - The Complete Guide ](https://github.com/mchajdecki/Microsoft-Azure.git)
   - [Creating Resources and Prerequisites In Microsoft Azure for Wireshark Diagnostics](https://github.com/mchajdecki/Network-Activities---Prerequisites.git) 
   - [Performing Activities and Network Traffic Analysis With Wireshark](https://github.com/mchajdecki/Performing-Activities-On-The-Network.git)
 
