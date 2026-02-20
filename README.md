@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Setting up and getting started - Full Tutorial](https://github.com/mchajdecki/Microsoft-Azure.git)
+  - [Creating Resources and Prerequisites In Microsoft Azure for Performing Network Activities](https://github.com/mchajdecki/Network-Activities---Prerequisites.git)
   - [Performing Activities and Network Traffic Analysis With Wireshark](https://github.com/mchajdecki/Performing-Activities-On-The-Network.git)
   - [Configuring Active Directory within Azure VMs](https://github.com/mchajdecki/configure-ad)
 
