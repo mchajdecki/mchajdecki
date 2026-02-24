@@ -8,7 +8,7 @@
   - [Performing Activities and Network Traffic Analysis With Wireshark](https://github.com/mchajdecki/Performing-Activities-On-The-Network.git)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mchajdecki/osticket-prereqs)
+  - [OSTicket: Prerequisites and Installation](https://github.com/mchajdecki/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mchajdecki/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mchajdecki/ticket-lifecycle)
 
