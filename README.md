@@ -9,7 +9,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mchajdecki/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mchajdecki/osticket-prerequisites-and-installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/mchajdecki/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mchajdecki/ticket-lifecycle)
 
 - <b>Active Directory</b>
