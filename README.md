@@ -13,6 +13,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mchajdecki/osTicket-Ticket-Lifecycle-Examples)
 
 - <b>Active Directory</b>
+ - [Preparing Active Directory Infrastructure in Azure](https://github.com/mchajdecki/Active-Directory-Infrastructure)
+  
 
 <h2>🤳Connect with me:</h2>
 
