@@ -14,6 +14,7 @@
 
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/mchajdecki/Active-Directory-Infrastructure)
+  - [Deploying Active Directory](https://github.com/mchajdecki/Deploying-Active-Directory/tree/main)
   
 
 <h2>🤳Connect with me:</h2>
